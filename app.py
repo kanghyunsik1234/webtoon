@@ -1,17 +1,3 @@
-# 파이썬 챗봇 만들기 !!
-
-### 카카오톡 플러스친구 관리자센터
-
-- 플러스 친구 생성후 공개설정(공개 안되면 검색이 안됨!!)
-- 스마트 채팅 API형 사용
-
-### c9 개발
-
-- 우측 상단의 톱니바퀴에 들어가서 python3로 설정변경
-- `sudo pip3 install flask`
-- 
-## keyboard
-'''python3
 import os
 import json
 from flask import Flask
